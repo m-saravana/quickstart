@@ -1,0 +1,198 @@
+## Meta tags
+- id: "meta_title"
+  translation: "Adritian - a high performance hugo theme by Adrián Moreno"
+- id: "meta_description"
+  translation: "This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications."
+- id: "meta_keywords"
+  translation: "hugo, theme, bootstrap, adritian, adrian moreno, personal site, portfolio, single page application"
+- id: "meta_author"
+  translation: "Adrián Moreno Peña"
+- id: "meta_image"
+  translation: "/img/general/og-image.jpg"
+
+## Header
+- id: "logo_text1"
+  translation: "Saravanan"
+
+- id: "logo_text2"
+  translation: "Maruthanayakam"
+
+- id: "nav_home"
+  translation: "HOME"
+
+## General
+- id: "skipToMainContent"
+  translation: "Skip to main content"
+
+- id: "toggle_navigation"
+  translation: "Toggle navigation"
+
+## Footer
+- id: "footer_notice"
+  translation: ""
+
+- id: "language"
+  translation: "Language"
+
+- id: "toggle_theme"
+  translation: "Toggle theme"
+
+- id: "theme_light"
+  translation: "☀️ Light"
+- id: "theme_dark"
+  translation: "🌑 Dark"
+- id: "theme_auto"
+  translation: "✨ Auto"
+
+## Homepage head title
+- id: "head_title"
+  translation: ""
+
+- id: "head_description"
+  translation: ""
+
+## Homepage showcase
+- id: "showcase_title"
+  translation: "Hello,I'm saravanan."
+
+- id: "showcase_subtitle"
+  translation: ""
+
+- id: "showcase_description"
+  translation: "I'm a software engineer from Chennai, India with expertise in Android, AI, and cloud technologies. <br>I recently led a team at Trimble, developing mobile and backend systems for driver productivity applications. <br>I have experience across the entire software lifecycle, from project planning and development to deployment and observability. I'm a strong leader with experience managing and mentoring teams, and I'm passionate about building high-quality, user-centric software."
+
+- id: "showcase_button"
+  translation: "Contact"
+
+  ## not visible but used for accessibility
+- id: "showcase_image_alt"
+  translation: "A picture of Cool Name"
+
+## Homepage about
+- id: "about_title"
+  translation: "Who am I?"
+
+- id: "about_content"
+  translation:  <p class="lead">
+      With over a decade of experience in software development, I've cultivated a versatile skillset across various domains, including leading and mentoring a team.   
+      </p>
+      <p class="lead">
+      I'm proficient in Android app development using Kotlin and Jetpack Compose leveraging Firebase for backend services, and adept at building robust backend systems with Golang and Google Cloud. I have a working knowledge of Python and some familiarity with Azure. I've successfully developed three production-grade AI applications, including a customer support RAG system, a recommendation engine, and an internal knowledge base powered by RAG.
+      <p class="lead">
+      This diverse experience has equipped me with a strong foundation in various technologies and a deep understanding of building and deploying successful software solutions/"
+      </p>
+
+- id: "about_button"
+  translation: "About Me"
+
+## Homepage education
+- id: "education_title"
+  translation: "Education"
+
+## Homepage experience
+- id: "experience_title"
+  translation: "Experience"
+
+- id: "experience_description"
+  translation: "10 years of experience working in all kind of project sizes and teams. I have architected & developed digital products to help businesses and improve people's lives, solving complex problems with simple solutions."
+
+- id: "experience_button"
+  translation: "LinkedIn" 
+
+- id: "experience_button_url"
+  translation: "https://www.linkedin.com/in/saravanan-maruthanayakam-199b7712b/"
+
+- id: "experience_button2"
+  translation: "Download resume"
+
+- id: "experience_button2_url"
+  translation: "/img/general/user-smile-fill.svg"
+
+- id: "experience_button3"
+  translation: "View all"
+
+- id: "experience_button3_url"
+  translation: "/experience"
+
+## Homepage client & work
+- id: "client_work_title"
+  translation: "Clients & Work"
+
+## Homepage newsletter
+- id: "newsletter_title"
+  translation: "Newsletter"
+
+- id: "newsletter_button"
+  translation: "Subscribe"
+
+- id: "newsletter_placeholder"
+  translation: "Your email"
+
+- id: "newsletter_success_message"
+  translation: "Thank you for subscribing to my newsletter!"
+
+- id: "newsletter_error_message"
+  translation: "An error occurred. Please try again."
+
+- id: "newsletter_note"
+  translation: "We'll never share your email with anyone else."
+
+## Homepage testimonials
+- id: "testimonials_title"
+  translation: "Testimonials"
+
+## Homepage contact
+- id: "contact_title"
+  translation: "Contact"
+
+- id: "contact_button"
+  translation: "Send message"
+
+- id: "contact_form_name"
+  translation: "Full Name"
+
+- id: "contact_form_email"
+  translation: "Email Address"
+
+- id: "contact_form_message"
+  translation: "Type Your Message Here"
+
+- id: "contact_phone_title"
+  translation: "Phone Number"
+
+- id: "contact_phone_number"
+  translation: "+91 8012203410"
+
+- id: "contact_email_title"
+  translation: "Email"
+
+- id: "contact_email_email"
+  translation: '<a href="mailto:maruthanayakamsaravanan@gmail.com">maruthanayakamsaravanan@gmail.com</a>'
+
+- id: "contact_address_title"
+  translation: "Address"
+
+- id: "contact_address_address"
+  translation: "Thoraipakkam<br />600097, Chennai"
+
+- id: "contact_button"
+  translation: "Send Message"
+
+## Blog
+- id: "read_more"
+  translation: "Read more"
+
+- id: "published_on"
+  translation: "Published on"
+
+- id: "continue_reading"
+  translation: "Continue reading"
+
+## 404 Page
+- id: "404_title"
+  translation: "Page not found"
+- id: "404_description"  
+  translation: "Sorry, but the page you were looking for could not be found."
+- id: "404_button"
+  translation: "Back to homepage"
+

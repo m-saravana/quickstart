@@ -1,6 +1,6 @@
-baseURL = "https://www.adrianmoreno.info"
+baseURL = "https://astounding-dragon-6911c0.netlify.app/"
 languageCode = "en"
-theme = "PaperMod"
+theme = "adritian-free-hugo-theme"
 
 [params]
 
@@ -55,23 +55,19 @@ theme = "PaperMod"
         URL = '#about'
         weight = 2
       [[languages.en.menus.header]]
-        name = 'Portfolio'
-        URL = '#portfolio'
+        name = 'Experience'
+        URL = '#experience'
         weight = 3
       #  [[languages.en.menus.header]]
       #  name = "Experience"
       #  URL = "#experience"
       #  weight = 4
 
-      [[languages.en.menus.header]]
-        name = "Blog"
-        URL = "/blog"
-        weight = 5
 
       [[languages.en.menus.header]]
         name = "Contact"
         URL = "#contact"
-        weight = 6
+        weight = 5
 
       [[languages.en.menus.footer]]
         name = "About"
@@ -90,7 +86,7 @@ theme = "PaperMod"
 
 
   [languages.es]
-    disabled = false
+    disabled = true
     languageCode = 'es'
     languageDirection = 'ltr'
     languageName = 'Español'
@@ -136,7 +132,7 @@ theme = "PaperMod"
         weight = 4
 
   [languages.fr]
-    disabled = false
+    disabled = true
     languageCode = 'fr'
     languageDirection = 'ltr'
     languageName = 'Français'
