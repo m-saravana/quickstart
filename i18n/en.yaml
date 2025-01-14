@@ -59,7 +59,7 @@
   translation: ""
 
 - id: "showcase_description"
-  translation: "I'm a software engineer from Chennai, India with expertise in Android, AI, and cloud technologies. <br>I recently led a team at Trimble, developing mobile and backend systems for driver productivity applications. <br>I have experience across the entire software lifecycle, from project planning and development to deployment and observability. I'm a strong leader with experience managing and mentoring teams, and I'm passionate about building high-quality, user-centric software."
+  translation: "Based on Chennai, India I'm a software developer with expertise in Android, AI, and cloud technologies. <br>Recently led a team at Trimble transportation, developing mobile and backend systems for driver productivity applications. <br>I have experience across the entire software lifecycle, from project planning and development to deployment and observability. I'm a strong leader with experience managing and mentoring teams, and I'm passionate about building high-quality, user-centric software."
 
 - id: "showcase_button"
   translation: "Contact"
