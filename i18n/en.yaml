@@ -1,12 +1,12 @@
 ## Meta tags
 - id: "meta_title"
-  translation: "Adritian - a high performance hugo theme by Adrián Moreno"
+  translation: "Personal portfolo site - Saravanan M"
 - id: "meta_description"
-  translation: "This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications."
+  translation: "a personal site, a portfolio and blog website."
 - id: "meta_keywords"
-  translation: "hugo, theme, bootstrap, adritian, adrian moreno, personal site, portfolio, single page application"
+  translation: "saravanan , hugo, portfolio"
 - id: "meta_author"
-  translation: "Adrián Moreno Peña"
+  translation: "saravanan maruthanayakam"
 - id: "meta_image"
   translation: "/img/general/og-image.jpg"
 
@@ -53,34 +53,38 @@
 
 ## Homepage showcase
 - id: "showcase_title"
-  translation: "Hello,I'm saravanan."
-
-- id: "showcase_subtitle"
   translation: ""
 
+- id: "showcase_subtitle"
+  translation: "Lead Software Engineer"
+
 - id: "showcase_description"
-  translation: "Based on Chennai, India I'm a software developer with expertise in Android, AI, and cloud technologies. <br>Recently led a team at Trimble transportation, developing mobile and backend systems for driver productivity applications. <br>I have experience across the entire software lifecycle, from project planning and development to deployment and observability. I'm a strong leader with experience managing and mentoring teams, and I'm passionate about building high-quality, user-centric software."
+  translation: |
+    <p>Based in Chennai, India, I'm a Software Engineer at Trimble Transportation, a Trimble Mobility division dedicated to optimizing transportation workflows.</p>
+    <p>My diverse background spans various aspects of technology, from backend and mobile development to cloud infrastructure. I've successfully contributed as both an individual contributor and a team leader.</p>
 
 - id: "showcase_button"
   translation: "Contact"
 
   ## not visible but used for accessibility
 - id: "showcase_image_alt"
-  translation: "A picture of Cool Name"
+  translation: "A picture"
 
 ## Homepage about
 - id: "about_title"
-  translation: "Who am I?"
+  translation: "Who am I"
 
 - id: "about_content"
-  translation:  <p class="lead">
-      With over a decade of experience in software development, I've cultivated a versatile skillset across various domains, including leading and mentoring a team.   
-      </p>
-      <p class="lead">
-      I'm proficient in Android app development using Kotlin and Jetpack Compose leveraging Firebase for backend services, and adept at building robust backend systems with Golang and Google Cloud. I have a working knowledge of Python and some familiarity with Azure. I've successfully developed three production-grade AI applications, including a customer support RAG system, a recommendation engine, and an internal knowledge base powered by RAG.
-      <p class="lead">
-      This diverse experience has equipped me with a strong foundation in various technologies and a deep understanding of building and deploying successful software solutions/"
-      </p>
+  translation: |
+    <p class="lead">
+      I am proficient in Android app development, leveraging Kotlin and Jetpack Compose. I excel at building robust backend systems using Golang, Firebase, and Google Cloud. I also possess a working knowledge of Python and some familiarity with Azure cloud services.
+    </p>
+    <p class="lead">
+      I have a proven track record in developing and deploying AI-powered solutions. My accomplishments include building and deploying two production-grade AI applications: a recommendation system based on NLP Custom Entity Extraction, and an internal knowledge base powered by RAG.
+    </p>
+    <p class="lead">
+      This diverse experience has provided me with a strong foundation in various technologies and a deep understanding of the entire software development lifecycle, from concept to deployment.
+    </p>
 
 - id: "about_button"
   translation: "About Me"
@@ -92,6 +96,10 @@
 ## Homepage experience
 - id: "experience_title"
   translation: "Experience"
+
+## Homepage certification
+- id: "certification_title"
+  translation: "Certification"
 
 - id: "experience_description"
   translation: "10 years of experience working in all kind of project sizes and teams. I have architected & developed digital products to help businesses and improve people's lives, solving complex problems with simple solutions."
@@ -116,7 +124,7 @@
 
 ## Homepage client & work
 - id: "client_work_title"
-  translation: "Clients & Work"
+  translation: "Projects"
 
 ## Homepage newsletter
 - id: "newsletter_title"

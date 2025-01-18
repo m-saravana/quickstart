@@ -10,12 +10,8 @@ showcase:
     x: "images/showcase/showcase-mobile.jpg"
 
   button:
-    icon: "linkedin"
+    icon: "icon-linkedin"
     URL: "https://www.linkedin.com/in/saravanan-maruthanayakam-199b7712b/"
-
-  socialLinks:
-    - icon: "linkedin"
-      URL: "https://www.linkedin.com/in/saravanan-maruthanayakam-199b7712b/"
 
 # about
 about:
@@ -35,6 +31,13 @@ education:
       year: "2007-2011"
       degree: "Bachelor of Engineering, Electronics and Communication Engineering"
 
+# certification
+certification:
+  enable: true
+  items:
+    - year: "2024"
+      title: "Google Cloud - Associate Cloud Engineer"
+      link: "https://www.credly.com/badges/42c6d4a5-5061-440d-80d3-690524c80ede/public_url"
 
 # experience
 ## to hiden a button, set the icon to an empty string
@@ -58,7 +61,7 @@ experience:
 
 # Client & Work
 client_and_work:
-  enable: false
+  enable: true
 
 # testimonial
 testimonial:
