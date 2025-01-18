@@ -39,6 +39,6 @@ Platform contains apps for Custom android launcher, Enterprise device management
 
 **Frontend**: Android 
 
-**Backend**: RabbitMQ, Google Cloud Platform, Firestore, Firebase, Terraform
+**Backend**: RabbitMQ, Google Cloud Platform, Firestore, Firebase, Datadog, Terraform
 
 **AI**: Gemini, Google Auto ML, Ollama with llama2, Langchain, ChromaDB

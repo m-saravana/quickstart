@@ -77,13 +77,13 @@
 - id: "about_content"
   translation: |
     <p class="lead">
-      I am proficient in Android app development, leveraging Kotlin and Jetpack Compose. I excel at building robust backend systems using Golang, Firebase, and Google Cloud. I also possess a working knowledge of Python and some familiarity with Azure cloud services.
+     "I'm a self-proclaimed 'jack of all trades, master of none' developer, perpetually juggling a variety of languages and frameworks – from Android with Kotlin and Jetpack Compose to backend systems with Golang, Firebase, and Google Cloud. I've even dabbled in AI, building and deploying a few production-grade applications, including a recommendation system and an internal knowledge base.
     </p>
     <p class="lead">
-      I have a proven track record in developing and deploying AI-powered solutions. My accomplishments include building and deploying two production-grade AI applications: a recommendation system based on NLP Custom Entity Extraction, and an internal knowledge base powered by RAG.
+      I'm a bit of an introvert, happiest when surrounded by my code and a handful of close friends (and maybe my guitar). Speaking of which, I've been trying to learn guitar for the past decade (and violin and harmonica!), but sadly, the violin had to go – I simply wasn't playing it enough . I remain optimistic that I'll finally master at least one of them before I kick the bucket.
     </p>
     <p class="lead">
-      This diverse experience has provided me with a strong foundation in various technologies and a deep understanding of the entire software development lifecycle, from concept to deployment.
+      Beyond the code, I enjoy getting lost in a good book, twisting the Rubik's Cube into submission, and (occasionally) teasing my wife. 😉
     </p>
 
 - id: "about_button"
