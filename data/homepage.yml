@@ -71,7 +71,7 @@ testimonial:
 contact:
   enable: true
   form:
-    action: "#"
+    #action: "mailto:maruthanayakamsaravanan@gmail.com"
   button:
     icon: "icon-email"
 
