@@ -46,22 +46,23 @@
 
 ## Homepage head title
 - id: "head_title"
-  translation: ""
+  translation: "Saravanan Maruthanayakam Portfolio"
 
 - id: "head_description"
-  translation: ""
+  translation: "My personal website built with Hugo and adritian theme"
 
 ## Homepage showcase
 - id: "showcase_title"
-  translation: ""
+  translation: "My Coding Adventures"
 
 - id: "showcase_subtitle"
   translation: "Lead Software Engineer"
 
 - id: "showcase_description"
   translation: |
-    <p>Based in Chennai, India, I'm a Software Engineer at Trimble Transportation, a Trimble Mobility division dedicated to optimizing transportation workflows.</p>
-    <p>My diverse background spans various aspects of technology, from backend and mobile development to cloud infrastructure. I've successfully contributed as both an individual contributor and a team leader.</p>
+    <p>Based in Chennai, India, I'm a Software Engineer at Trimble Transportation, a Mobility division dedicated to optimizing transportation workflows.</p>
+    <p>My diverse background spans various aspects of technology, from backend and mobile development to cloud infrastructure and Artificial Intelligence. I've successfully contributed as both an individual contributor and a team leader.</p>
+    <p>I believe in iterative improvements and the power of collaborative teamwork. This philosophy has helped me drive innovation in every role, whether it's enhancing existing systems or building new solutions. When I'm not coding, you'll find me exploring new technologies and sharing knowledge with my team.</p>
 
 - id: "showcase_button"
   translation: "Contact"
@@ -100,6 +101,9 @@
 ## Homepage certification
 - id: "certification_title"
   translation: "Certification"
+
+- id: "certification_link"
+  translation: "Credential"
 
 - id: "experience_description"
   translation: "10 years of experience working in all kind of project sizes and teams. I have architected & developed digital products to help businesses and improve people's lives, solving complex problems with simple solutions."

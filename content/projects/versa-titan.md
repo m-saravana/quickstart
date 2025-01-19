@@ -8,8 +8,8 @@ link: "https://versa-networks.com/sd-wan/" # optional URL to link the logo to
 params:
     button:
         icon: "icon-arrow-right"
-        btnText: "PlayStore"
-        URL: "https://play.google.com/store/apps/details?id=com.versa.titan.global"
+        btnText: "Learn More"
+        URL: "https://versa-networks.com/sd-wan/"
     image:  
         x: "images/works/c_activate_device.webp"
         _2x: "images/works/c_activate_device.webp"
@@ -21,22 +21,25 @@ params:
 ## The content is used for the description of the project
 ---
 
-Built an app to software manage versa SD-WAN network devices, by using it users can quickly and easily provision, configure and monitor their SD-WAN appliances form mobile devices.
+Android app to software manage versa SD-WAN network devices, enabling users to quickly provision, configure and monitor their SD-WAN appliances from mobile devices.
 
-Platform contains an android app that connects with SD-WAN hardware using BLE and configures the hardware using Java backend api's and Sockets , Firebase FCM for push messaging. Glu for OAuth. 
+Key Features:
+- Number of users: 10000+
+- Device Management
+  * Quick device activation and troubleshooting via BLE connectivity
+  * Real-time device monitoring and configuration using socket com and api's
+- Security & Integration
+  * OWASP and SANS security compliance
+  * OAuth authentication with Glu and OpenAM
+  * Firebase Cloud Messaging for notifications
 
-Clients: Adobe, McLaren, ripple , etc.,
+Technical Stack:
+- Frontend: Android with Java, XML and view binding
+- Backend: Java APIs, BLE Integration, WebSockets
+- Cloud: Firebase FCM, OAuth Integration
 
-Platform Info: https://versa-networks.com/sd-wan/
+Major Clients: Adobe, McLaren, Ripple
 
-Roles: Senior Software Engineer
-
-Responsibilities : Software Planning, Lead Android Developer, Android app development
-
-Number of platform users : 10000 
-
-Languages : Java, Kotlin 
-
-Frontend: Android 
+[Platform Info →](https://versa-networks.com/sd-wan/)
 
 

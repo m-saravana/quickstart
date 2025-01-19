@@ -22,8 +22,8 @@ showcase:
 about:
   enable: true
   button:
-    icon: "icon-user"
-    URL: ""
+    icon: "icon-linkedin"
+    URL: "https://www.linkedin.com/in/saravanan-maruthanayakam-199b7712b/"
   image:
     x: "images/about/user_image.jpg"
     _2x: "images/about/user_image.jpg"

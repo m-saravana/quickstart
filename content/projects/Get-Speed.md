@@ -3,34 +3,42 @@ date: '2018-08-25T09:53:42+02:00' # date in which the content is created - defau
 title: 'GetSpeed'
 draft: false # set to "true" if you want to hide the content 
 
-link: "https://versa-networks.com/sd-wan/" # optional URL to link the logo to
+link: "https://transportationinfo.trimble.com/instinct-ecosystem-of-solutions/"
 
 params:
     button:
         icon: "icon-arrow-right"
-        btnText: "WebSite link"
+        btnText: "Learn More"
         URL: "https://getspeed-racetaxi.de/en/home/"
     image:  
-        x: "assets/images/about/user_image.jpg"
-        _2x: "assets/images/about/user_image.jpg"
+        x: "images/works/g_live_stream.webp"
+        _2x: "images/works/g_live_stream.webp"
+    additional_image:
+        x: "images/works/g_shop.webp"
+        _2x: "images/works/g_shop.webp"
     
 
 ## The content is used for the description of the project
 ---
 
-Built an android app to stream the Client's motorsport live events. 
-Display Ads during Live streaming and after event videos through customised Ad Servers. 
-A Shop section to facilitate the purchase of client's products.
+Android app for GetSpeed Performance Center's motorsport platform with live streaming and e-commerce integration.
 
-Client : GetSpeed Performance Center Nürburgring, Germany
+Key Features:
+- Live Streaming
+  * Real-time motorsport event streaming using ExoPlayer
+  * Custom ad integration during race using VAST tags coming from a custom ad server
+- E-Commerce Integration
+  * In-app shop for merchandise
+  * Secure payment processing
+- Content Management
+  * Post-event video library
+  * Customized ad server integration
 
-Platform Info : https://getspeed-racetaxi.de/en/home/
+Technical Stack:
+- Frontend: Android with Java
+- Backend: RESTful APIs, Video Streaming
+- Analytics: Custom Ad Server Integration
+- Payment: Secure Payment Gateway
 
-Roles: Lead android developer
-
-Number of users : Unknown
-
-Languages : Java 
-
-Frontend: Android 
+[Platform Info →](https://getspeed-racetaxi.de/en/home/)
 
