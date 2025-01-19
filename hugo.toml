@@ -4,9 +4,10 @@ theme = "adritian-free-hugo-theme"
 
 [params]
 
-  title = 'Adritian - a high performance hugo theme by Adrián Moreno'
-  description = 'This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications.'
-  images = ['/img/og-img.png']
+  title = 'Saravanan Maruthanayakam'
+  description = "My personal website built with Hugo and adritian theme"
+  images = ['/images/about/user_image.jpg'] 
+  favicon = "/images/about/user_image.jpg" 
   sections = ["showcase", "about", "education", "certification", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
 
   homepageExperienceCount = 6

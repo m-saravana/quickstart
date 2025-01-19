@@ -10,8 +10,13 @@ showcase:
     x: "images/showcase/showcase-mobile.jpg"
 
   button:
+    icon: "icon-email"
+    URL: "#contact"
+
+  button2:
+    enable: true
     icon: "icon-linkedin"
-    URL: "https://www.linkedin.com/in/saravanan-maruthanayakam-199b7712b/"
+    URL: "https://www.linkedin.com/in/saravanan-maruthanayakam-199b7712b/" 
 
 # about
 about:
